@@ -19,11 +19,11 @@
       }
     h1 {
       font-size: 36px; /* Tamanho da fonte do titulo */
-      color: #333; /* Cor do texto */
+      color: #B3093F; /* Cor do texto */
       }
     p {
       font-size: 18px; /* Tamanho da fonte do parágrafo */
-      color: #161414; /* Cor do texto */
+      color: #A5BEFA; /* Cor do texto */
       line-height: 1.6; /* Altura da linha */
       margin-bottom: 20px; /*Espaçamento inferior */
       }

@@ -54,7 +54,7 @@
     <img src="robotica_astronomia.jpg" alt="Robótica na Astronomia" class="imagem">
     <p>Esses robôs são equipados com uma variedade de sensores, câmeras e instrumentos científicos que os ajudam a estudar a composição do solo, a geologia, a atmosfera e até mesmo a busca por sinais da vida extraterrestre.</p>
     <div class="video">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8_KMXVxsQR4" frameborder= "0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=qZvRhxvlqU4" frameborder= "0" allowfullscreen></iframe>
     </div>
     <p>A robótica na astronomia permite que os cientistas realizem descobertas incríveis e expandam nosso entendimento do universo</p>
     <p>Para mais informações, consulte o <a href="https://www.nasa.gov/">NASA</a>.</p>

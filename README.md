@@ -6,7 +6,7 @@
   <title>Robótica na Astronomia</title>
   <style>
     body {
-      background-color: #000; /* Cor de Fundo */
+      background-color: #1810143; /* Cor de Fundo */
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
